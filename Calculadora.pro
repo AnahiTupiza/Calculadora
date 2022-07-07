@@ -26,7 +26,8 @@ FORMS += \
     principal.ui
 
 TRANSLATIONS += \
-    Calculadora_es_EC.ts
+    Calculadora_fr.ts \
+    Calculadora_en_US.ts
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
